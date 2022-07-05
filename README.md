@@ -7,6 +7,8 @@ In this project we will be using a hybrid recommender sytem consisting of item b
 Libraries that will be used in this project are as follows:
 Pandas,Numpy,Datetime,Sklearn,Matplotlib,scipy,seaborn.
 
+Tech Stack used: FastAPI and StreamLit
+
 
 Meta Data
 Summary
